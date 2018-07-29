@@ -1,3 +1,8 @@
+## My work
+(For digit recogniser) test and train data are provided in the respective folders (as the the data was huge I have deleted a large part of it if you want to run it on the full data here is the link https://www.kaggle.com/c/digit-recognizer/data)
+(For 3-D object construction) Data set wrapper is made that is used to generate test data using the kmz files.
+
+
 ## Using the code
 
 Training scripts and a couple of trained demo networks are included. More demos and the complete set of data are on the road.
@@ -75,3 +80,7 @@ https://www.dropbox.com/sh/68kfpqut2y75etz/AABtIn2LUMALTnULSTUr5ZlUa?dl=0
 Below is more data that might be useful. Notice: you must use https.
 
 https://shapenet.cs.stanford.edu/media/sampledata_220k.tar
+
+
+
+
